@@ -1,10 +1,10 @@
 # Detecting COVID-19 with Chest XRay images
-Deep learning model to classify Chest X Ray scan images between 3 classes including Viral pneumonia and COVID-19
+Deep learning model to classify Chest X Ray scan images between 3 classes including Viral pneumonia and COVID-19.
 
 ![](assets/xrays.png)
 
 # Description
-This project aims to classify XRay scan images between 3 classes: Normal, Viral pneumonia and COVID-19.
+This Coursera project aims to classify XRay scan images between 3 classes: Normal, Viral pneumonia and COVID-19.
 The project utilizes a dataset of images which can be found at Kaggle [here](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database).
 The dataset contains a total of 2,924 grayscale images with a significant class imbalance due to under-representation of the COVID-19 class.
 - 1,341 `normal` images
