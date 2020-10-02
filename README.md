@@ -1,6 +1,8 @@
 # COVID19_XRay_Scans_classification_model
 Deep learning model to classify XRay Scan images between 3 classes and detect COVID19
 
+![](assets/xrays.png)
+
 # Description
 This project aims to classify XRay scan images between 3 classes: Normal, Viral pneumonia and COVID-19.
 The project utilizes a dataset of images which can be found at Kaggle [here](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database).
@@ -24,10 +26,12 @@ The dataset contains a total of 2,924 grayscale images with a significant class 
 
 - The model converges in less than one epoch and achieves an accuracy of over 98% on the validation images
 
+![](asset/loss_profile.png)   ![](asset/accuracy.png) 
+
 # How to use the notebook?
 - download the image dataset from Kaggle
 - Download and run the notebook
 
 # Results
 
-
+98% accuracy on average with 100% accuracy on COVID detection.
