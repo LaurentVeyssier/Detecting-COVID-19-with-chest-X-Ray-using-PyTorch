@@ -26,7 +26,7 @@ The dataset contains a total of 2,924 grayscale images with a significant class 
 
 - The model converges in less than one epoch and achieves an accuracy of over 98% on the validation images
 
-![](asset/loss_profile.png)   ![](asset/accuracy.png) 
+![](assets/loss_profile.png)   ![](assets/accuracy.png) 
 
 # How to use the notebook?
 - download the image dataset from Kaggle
