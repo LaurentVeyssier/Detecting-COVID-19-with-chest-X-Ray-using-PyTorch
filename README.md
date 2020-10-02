@@ -1,5 +1,5 @@
-# COVID19_XRay_Scans_classification_model
-Deep learning model to classify XRay Scan images between 3 classes and detect COVID19
+# Detecting COVID-19 with Chest XRay images
+Deep learning model to classify Chest X Ray scan images between 3 classes including Viral pneumonia and COVID-19
 
 ![](assets/xrays.png)
 
